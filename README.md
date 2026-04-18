@@ -114,7 +114,7 @@ stuff that probably should not exist, but does
 ## contact
 
 - GitHub: [@RobertFlexx](https://github.com/RobertFlexx)
-- Email: robertflexxgh@gmail.com
+- Email: robertflexxgh[at]gmail.com
 
 ---
 
