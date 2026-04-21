@@ -2,7 +2,7 @@
 <p align="center"><strong>probably coding something</strong></p>
 
 <p align="center">
-  <img src="./nimruby.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/RobertFlexx/RobertFlexx/main/nimruby.png" width="600">
 </p>
 
 <p align="center">
