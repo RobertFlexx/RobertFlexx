@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>Fast, weird, low-level software.</em><br>
-  shells • editors • file search • package managers • HTTP clients • UNIX-like systems
+  shells • editors • file search • package managers • networking • low level • game development
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ## about me
 
-I build software that tries to be direct, practical, and fast.
+I build software that tries to be direct, practical, and fast. And sometimes funny.
 
 Most of what I make lives somewhere around:
 
@@ -39,6 +39,9 @@ Most of what I make lives somewhere around:
 * file search / traversal
 * packaging and tooling
 * operating system experiments
+* compilers, programming languages
+* game development
+* gag stuff (joke software)
 
 > From Axioms, Order.
 
@@ -74,6 +77,11 @@ A GTK image writer for UNIX and UNIX-like systems, because apparently a lot of t
 
 A fast minimal HTTP client built in Odin.
 
+## Blockbox
+
+Open source block voxel game (free)
+
+
 ---
 
 ## what i like building
@@ -81,7 +89,7 @@ A fast minimal HTTP client built in Odin.
 ```text
 low-level tools
 small binaries
-fast workflows
+fast workflow stuff
 unix-ish software
 editors
 shells
@@ -120,10 +128,15 @@ stuff that probably should not exist, but does
 * smart search tooling
 * terminal UX
 * weird language experiments
+* game development shit
+* joke tools/apps
+* compilers
+* my upcoming web chat platform
+* and other bullshit
 
 ---
 
-## contact
+## contact me!
 
 * GitHub: [@RobertFlexx](https://github.com/RobertFlexx)
 * Email: robertflexxgh[at]gmail.com
