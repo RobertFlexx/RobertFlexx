@@ -127,7 +127,7 @@ stuff that probably should not exist, but does
 
 * GitHub: [@RobertFlexx](https://github.com/RobertFlexx)
 * Email: robertflexxgh[at]gmail.com
-
+* Discord: @cladreborn
 ---
 
 <p align="center">
