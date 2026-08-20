@@ -1,4 +1,3 @@
-````markdown
 <h1 align="center">RobertFlexx</h1>
 
 <p align="center">
@@ -235,4 +234,3 @@ Computers, cars and trains are basically the same hobby if you ignore enough det
 <p align="center">
   <sub>less bloat. more software.</sub>
 </p>
-````
