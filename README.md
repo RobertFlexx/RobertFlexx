@@ -4,7 +4,7 @@
   <strong>probably coding something that was supposed to be a small project</strong>
 </p>
 
-![Uploadin<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">RobertFlexx Workbench</title>
   <desc id="desc">An animated developer profile rendered as a late-1990s Windows workbench, with a build monitor, classic controls, and a car photograph.</desc>
 
