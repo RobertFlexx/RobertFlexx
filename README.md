@@ -74,6 +74,8 @@ Both are important.
 
 ## some stuff i've built
 
+> man, i just make stupid shit sometimes too
+
 ### ObeliskOS
 
 A standalone UNIX-like operating system.
@@ -137,6 +139,7 @@ build systems
 things with too many pointers
 things with not enough pointers
 stuff that probably should not exist
+random bullshit
 ```
 
 I don't really care about making something sound impressive.
@@ -186,6 +189,7 @@ This changes constantly, but usually some combination of:
 - my web chat platform
 - Linux
 - whatever dumb idea sounded easy at 2 AM
+- random ass shit that could be genius or an abomination
 
 There is a very real chance the project I am working on right now did not exist yesterday.
 
