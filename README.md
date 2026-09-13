@@ -231,7 +231,7 @@ Computers, cars and trains are basically the same hobby if you ignore enough det
 
 **GitHub:** [@RobertFlexx](https://github.com/RobertFlexx)  
 **Email:** robertflexxgh[at]gmail.com  
-**Discord:** @programmingisprogaming
+**Discord:** none at the moment :(
 
 
 **And yes, i use em dashes because they are uniform.**
